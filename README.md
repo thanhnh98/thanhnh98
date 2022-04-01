@@ -1,6 +1,6 @@
-<p align="center"><a href="http://thanhnh98.github.io/"><img width="80%" src="./assets/hello.png" /></a></p>
+<p align="center"  target="_blank"><a href="http://thanhnh98.github.io/"><img width="30%" src="./assets/hello.png" /></a></p>
 
-Hi you guys, i'm Mobile Developer 💻
+Hi you guys, i'm Android Developer 💻
 
 **About me**
 
@@ -8,6 +8,6 @@ Hi you guys, i'm Mobile Developer 💻
 
 - 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/dev?id=5540559479839330036&hl=en&gl=US)
 
-- ❤️ I love writing Kotlin and have strong knowledge about Mobile Development
+- ❤️ I love writing Kotlin and have strong knowledge about Android Development
 
 ![thanhnh98's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
