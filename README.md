@@ -1,10 +1,10 @@
 <p align="center"><a href="http://thanhnh98.github.io/"><img width="80%" src="./assets/say_hello.png" /></a></p>
 
-Hi you guys, i'm Developer 💻
+Hi you guys, i'm Mobile Developer 💻
 
 **About me**
 
-- 💼 Mobile Engineer at [OKXE.VN](https://www.okxe.vn/)
+- 💼 Android Developer at [OKXE.VN](https://www.okxe.vn/)
 
 - 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/dev?id=5540559479839330036&hl=en&gl=US)
 
