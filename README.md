@@ -1,15 +1,13 @@
 <p align="center"><a href="http://thanhnh98.github.io/"><img width="80%" src="./assets/say_hello.png" /></a></p>
 
-Hi you guys, i'm Android Developer 💻
+Hi you guys, i'm Developer 💻
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Mobile Engineer at [OKXE.VN](https://www.okxe.vn/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down&hl=en&gl=US)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Kotlin and have strong knowledge about Mobile Development
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
