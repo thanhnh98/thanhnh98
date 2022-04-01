@@ -10,4 +10,4 @@ Hi you guys, i'm Mobile Developer 💻
 
 - ❤️ I love writing Kotlin and have strong knowledge about Mobile Development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
+![thanhnh98's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
