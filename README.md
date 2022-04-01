@@ -1,4 +1,4 @@
-<p align="center"><a href="http://thanhnh98.github.io/"><img width="80%" src="./assets/say_hello.png" /></a></p>
+<p align="center"><a href="http://thanhnh98.github.io/"><img width="80%" src="./assets/hello.png" /></a></p>
 
 Hi you guys, i'm Mobile Developer 💻
 
