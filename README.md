@@ -6,7 +6,7 @@ Hi you guys, i'm Developer 💻
 
 - 💼 Mobile Engineer at [OKXE.VN](https://www.okxe.vn/)
 
-- 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down&hl=en&gl=US)
+- 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/dev?id=5540559479839330036&hl=en&gl=US)
 
 - ❤️ I love writing Kotlin and have strong knowledge about Mobile Development
 
