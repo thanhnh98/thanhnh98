@@ -11,3 +11,6 @@ Hi you guys, i'm Android Developer 💻
 - ❤️ I love writing Kotlin and have strong knowledge about Android Development
 
 ![thanhnh98's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnh98&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
