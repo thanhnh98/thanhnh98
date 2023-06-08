@@ -1,6 +1,6 @@
 <p align="center"  target="_blank"><a href="http://thanhnh98.github.io/"><img width="30%" src="./assets/hello.png" /></a></p>
 
-Hi you guys, i'm Android Developer 💻
+Hi you guys, i'm [Android Developer](https://thanhnh98.github.io/#/) 💻
 
 **About me**
 
