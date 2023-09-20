@@ -9,6 +9,11 @@ Hi you guys, i'm [Android Developer](https://thanhnh98.github.io/#/) 💻
 - 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/dev?id=5540559479839330036&hl=en&gl=US)
 
 - ❤️ I love writing Kotlin and have strong knowledge about Android Development
+
+  
+**Connect with me on**
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!-- 
 ![thanhnh98's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
 
