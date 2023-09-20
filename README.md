@@ -13,7 +13,7 @@ Hi you guys, i'm [Android Developer](https://thanhnh98.github.io/#/) 💻
   
 **Connect with me on**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/thanh-nguyen-hoai-512616181/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- 
 ![thanhnh98's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnh98&show_icons=true&theme=tokyonight)
 
