@@ -4,11 +4,11 @@ Hi you guys, i'm [Android Developer](https://thanhnh98.github.io/#/) 💻
 
 **About me**
 
-- 💼 Android Developer at [OKXE.VN](https://www.okxe.vn/)
+- 💼 **Android Developer** at [TLife](https://play.google.com/store/apps/dev?id=5540559479839330036)
 
-- 🎉 Have a few apps on [CH Play](https://play.google.com/store/apps/dev?id=5540559479839330036&hl=en&gl=US)
+- 🎉 **Sắp Tết 2024** [CH Play](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
 
-- ❤️ I love writing Kotlin and have strong knowledge about Android Development
+- ❤️ I love writing **Kotlin** and have strong knowledge about Android Development
 
   
 **Connect with me on**
