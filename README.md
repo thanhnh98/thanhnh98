@@ -1,12 +1,12 @@
 <p align="center"  target="_blank"><a href="http://thanhnh98.github.io/"><img width="30%" src="./assets/hello.png" /></a></p>
 
-Hi you guys, i'm [Android Developer](https://thanhnh98.github.io/#/) 💻
+Hi you guys, i'm an [Android Developer](https://thanhnh98.github.io/#/) 💻
 
 **About me**
 
 - 💼 **Android Developer** at [TLife](https://play.google.com/store/apps/dev?id=5540559479839330036)
 
-- 🎉 **Sắp Tết 2024** [CH Play](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
+- 🎉 Author of **Sắp Tết 2024** [Play Store](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
 
 - ❤️ I love writing **Kotlin** and have strong knowledge about Android Development
 
