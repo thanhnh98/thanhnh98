@@ -6,7 +6,7 @@ Hi you guys, i'm an [Android Developer](https://thanhnh98.github.io/#/) 💻
 
 - 💼 **Android Developer** at [TLife](https://play.google.com/store/apps/dev?id=5540559479839330036)
 
-- 🎉 Author of **Sắp Tết 2024** [Play Store](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
+- 🎉 Author of **Sắp Tết 2025** [Play Store](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
 
 - ❤️ I love writing **Kotlin** and have strong knowledge about Android Development
 
