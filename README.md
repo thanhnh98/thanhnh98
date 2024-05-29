@@ -1,7 +1,5 @@
 <p align="center"  target="_blank"><a href="http://thanhnh98.github.io/"><img width="30%" src="./assets/hello.png" /></a></p>
 
-![](https://komarev.com/ghpvc/?username=thanhnh98&style=flat&color=brightgreen)
-
 Hi you guys, i'm an [Android Developer](https://thanhnh98.github.io/#/) 💻
 
 **About me**
