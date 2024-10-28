@@ -8,7 +8,7 @@ Hi you guys, i'm an [Android Developer](https://thanhnh98.github.io/#/) 💻
 
 - 🎉 Author of **Sắp Tết 2025** [Play Store](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
 
-- ❤️ I love coding and 💰💰💰 😁❤️
+- ❤️ Coding just for fun, but must have money ❤️
 
   
 
