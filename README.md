@@ -6,7 +6,7 @@ Hi you guys, i'm an [Mobile Developer](https://thanhnh98.github.io/#/) 💻
 
 - 💼 **Mobile Developer** at [TLife](https://play.google.com/store/apps/dev?id=5540559479839330036)
 
-- 🎉 Author of [**Sắp Tết 2025**](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down) (An application with over 50k installs and 1.2k reviews, rated 4.9 stars.)
+- 🎉 Author of [**Sắp Tết 2025**](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
 
 - ❤️ Coding just for fun, but must have money ❤️
 
