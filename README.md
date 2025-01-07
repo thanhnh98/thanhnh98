@@ -10,10 +10,7 @@ Hi you guys, i'm an [Mobile Developer](https://thanhnh98.github.io/#/) 💻
 
 - ❤️ Coding just for fun ❤️
 
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnh98&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
+    
 **Connect with me on**
 
 <a href="https://www.linkedin.com/in/thanh-nguyen-hoai-512616181/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
