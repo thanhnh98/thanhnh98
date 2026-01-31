@@ -6,7 +6,7 @@ Hi you guys, i'm an [Mobile Developer](https://thanhnh98.github.io/#/) 💻
 
 - 💼 **Mobile Developer** at [TLife](https://play.google.com/store/apps/dev?id=5540559479839330036)
 
-- 🎉 Author of [**Sắp Tết 2026**](https://play.google.com/store/apps/details?id=com.thanh_nguyen.tet_count_down)
+- 🎉 Author of [**Sắp Tết 2026**](https://saptet.vn/#app-intro)
 
 - ❤️ Coding just for fun ❤️
 
